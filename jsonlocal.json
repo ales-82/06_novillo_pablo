@@ -1,0 +1,48 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "javier",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "nombre": "Cristina",
+      "password": "0000"
+    },
+    {
+      "id": 3,
+      "nombre": "Sergio",
+      "password": "5555"
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "userId": 1,
+      "titulo": "Proveedores",
+      "descripcion": "Reunión de los Proveedores en el negocio",
+      "fecha": "2023-09-15",
+      "hora": "11:00",
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "titulo": "Compras",
+      "descripcion": "compras de mercaderia del negocio",
+      "fecha": "2023-09-15",
+      "hora": "10:00",
+      "color": "yellow"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "titulo": "Ventas",
+      "descripcion": "Ventas a pedido del clientes",
+      "fecha": "2023-09-20",
+      "hora": "10:00",
+      "color": "green"
+    }
+  ]
+}

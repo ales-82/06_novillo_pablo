@@ -1,0 +1,70 @@
+{
+  "usuario": [
+    {
+      "nombre": "ricardo",
+      "password": "1234"
+    },
+    {
+      "nombre": "ales",
+      "password": "4321"
+    },
+    {
+      "nombre": "sofia",
+      "password": "3421"
+    },
+    {
+      "nombre": "ramona",
+      "password": "1111"
+    }
+  ],
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "compras josefina",
+      "descripcion": "el lunes ire de comprar a la tienda josefina",
+      "fecha": "2023-09-12",
+      "hora": "13:00",
+      "color": "rojo"
+    },
+    {
+      "id": 2,
+      "titulo": "proveedores",
+      "descripcion": "el martes tendre una reunion con proveedores",
+      "fecha": "2023-09-13",
+      "hora": "10:00",
+      "color": "amarillo"
+    },
+    {
+      "id": 3,
+      "titulo": "cocina",
+      "descripcion": "hare el almuerzo muy tarde",
+      "fecha": "2023-09-12",
+      "hora": "14:00",
+      "color": "rojo"
+    },
+    {
+      "id": 4,
+      "titulo": "manzanitas",
+      "descripcion": "voy a cosechar manzanas en la casa de doña Martha",
+      "fecha": "2023-09-15",
+      "hora": "11:00",
+      "color": "verde"
+    },
+    {
+      "id": 5,
+      "titulo": "entrevista a candidato de empleo",
+      "descripcion": "voy hacer una entrevista por temas laborales",
+      "fecha": "2023-09-13",
+      "hora": "14:00",
+      "color": "amarillo"
+    },
+    {
+      "id": 6,
+      "titulo": "hacer un informe",
+      "descripcion": "Hare el informe de los empleados",
+      "fecha": "2023-09-13",
+      "hora": "12:00",
+      "color": "amarillo"
+    }
+  ]
+}
